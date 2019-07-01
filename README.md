@@ -14,7 +14,7 @@
 
 ### 编辑工作流
 
-1. 审阅：审查最新的给《Steem指南》的投稿（https://steemit.com/created/steem-guides），并回复审稿结果，对于不熟悉的主题，可以转给对应的主题编辑。（考虑到 SCT 的点赞奖励，一般文章的审查周期应该在2天以内。）
+1. 审阅：审查最新的给《Steem指南》的投稿（ https://steemit.com/created/steem-guides ），并回复审稿结果，对于不熟悉的主题，可以转给对应的主题编辑。（考虑到 SCT 的点赞奖励，一般文章的审查周期应该在2天以内。）
 2. 合并：将通过审稿的文章，合并到《Steem指南》中；可参考 [《Steem指南》编辑的工作流](https://busy.org/@steem-guides/steem--editorsworkflow220190419-6ikxugl9xu)
 3. 周报：汇总当日的《Steem指南》专题报告，通过 cnstm 发送；
 
@@ -22,11 +22,11 @@
 ### 编辑工具
 
 1. GitHub项目：
-    1. https://github.com/steem-guides/steemh
-    1. https://github.com/steem-guides/steem-engine
+    1. 《Steem指南》https://github.com/steem-guides/steemh
+    1. 《Steem Engine手册》https://github.com/steem-guides/steem-engine
 
 
 ### 当前项目
 
 1.《Steem指南》：http://steem-guides.github.io/steemh/
-1 《Steem Engine手册》：https://steem-guides.github.io/steem-engine/
+1.《Steem Engine手册》：https://steem-guides.github.io/steem-engine/
