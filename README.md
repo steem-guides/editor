@@ -28,5 +28,5 @@
 
 ### 当前项目
 
-1.《Steem指南》：http://steem-guides.github.io/steemh/
-1.《Steem Engine手册》：https://steem-guides.github.io/steem-engine/
+1. 《Steem指南》：http://steem-guides.github.io/steemh/
+1. 《Steem Engine手册》：https://steem-guides.github.io/steem-engine/
