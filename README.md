@@ -21,12 +21,14 @@
 
 ### 编辑工具
 
-1. GitHub项目：
-    1. 《Steem指南》https://github.com/steem-guides/steemh
-    1. 《Steem Engine手册》https://github.com/steem-guides/steem-engine
+1. GitHub 用于管理书籍源码
 
 
 ### 当前项目
 
-1. 《Steem指南》：http://steem-guides.github.io/steemh/
-1. 《Steem Engine手册》：https://steem-guides.github.io/steem-engine/
+\# | 书籍 | GitHub项目 | 征稿链接
+-- | :-- | :--
+1 | [《Steem指南》](http://steem-guides.github.io/steemh/) | https://github.com/steem-guides/steemh | https://github.com/steem-guides/steemh/issues/12
+2 | [《Steem Engne手册》](https://steem-guides.github.io/steem-engine/
+) | https://github.com/steem-guides/steem-engine | https://github.com/steem-guides/steem-engine/issues/3
+
