@@ -27,8 +27,7 @@
 ### 当前项目
 
 \# | 书籍 | GitHub项目 | 征稿链接
--- | :-- | :--
+-- | :-- | :-- | --
 1 | [《Steem指南》](http://steem-guides.github.io/steemh/) | https://github.com/steem-guides/steemh | https://github.com/steem-guides/steemh/issues/12
-2 | [《Steem Engne手册》](https://steem-guides.github.io/steem-engine/
-) | https://github.com/steem-guides/steem-engine | https://github.com/steem-guides/steem-engine/issues/3
+2 | [《Steem Engne手册》](https://steem-guides.github.io/steem-engine/) | https://github.com/steem-guides/steem-engine | https://github.com/steem-guides/steem-engine/issues/3
 
