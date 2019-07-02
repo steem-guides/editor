@@ -76,6 +76,8 @@
 1. 如果标签不够用，可以使用 [CN区改进过的客户端](https://steemcoinpancn.herokuapp.com/)，支持10个标签
 
 <center>
+
 ![](https://steemitimages.com/p/2XmsB3ZF6jJG5uKeT7Vb2X1ng7JxtkVTVgmN6cwv3Seu9aEPUgkV1Tt4cLhs4xpaQUz8SXP59DLQv7R1j7sJyBcfsbdwMmrn5SdyTSBKu9ov3q6EXDcaQJtAT2nACiSgwL9PPx8S3ea6ZRnagfAoCbsoSRx7PkQUHdxdx4uLP779PYp4dLi68EUp7AnENMdcS5FWhJhwvNzmUyi2iaPwKjaT1PM3F1HBvLwBx76L9YjeZAjWLVBr4DQSmrQA1BQS3hiGZUqWJgVA4dehPWHrAR4ERR)
+   
 <sub>成为《Steem指南》编辑和作者</sub>
 </center>
