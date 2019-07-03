@@ -14,13 +14,14 @@
 
 ### 编辑工作流
 
-1. 审阅：审查最新的给《Steem指南》的投稿（ https://steemit.com/created/steem-guides ），并回复审稿结果，对于不熟悉的主题，可以转给对应的主题编辑。（考虑到 SCT 的点赞奖励，一般文章的审查周期应该在2天以内。）
+1. 审阅：审查最新的给《Steem指南》的投稿（ https://steemit.com/created/steem-guides ），并[回复审稿结果](https://github.com/steem-guides/editor/blob/master/doc/review.md)，对于不熟悉的主题，可以转给对应的主题编辑。（考虑到 SCT 的点赞奖励，一般文章的审查周期应该在2天以内。）
 2. 合并：将通过审稿的文章，首先可以[使用HackMD进行编辑](https://github.com/steem-guides/editor/blob/master/doc/hackmd.md)，编辑完成后[合并到《Steem指南》或 《Steem Engine手册》的GitHub项目中](https://github.com/steem-guides/editor/blob/master/doc/github.md)
 3. 周报：汇总当日的《Steem指南》专题报告，通过 cnstm 发送；
 
 
 ### 编辑工具
 
+1. Steem 客户端 用于审阅回复投稿：[查看审稿回复说明](https://github.com/steem-guides/editor/blob/master/doc/review.md)
 1. GitHub 用于管理书籍源码：[查看使用说明](https://github.com/steem-guides/editor/blob/master/doc/github.md)
 1. HackMD 用于在线协作编辑 MD：[查看使用说明](https://github.com/steem-guides/editor/blob/master/doc/hackmd.md)
 
