@@ -21,8 +21,8 @@
 
 ### 编辑工具
 
-1. GitHub 用于管理书籍源码
-1. HackMD 用于在线协作编辑 MD
+1. GitHub 用于管理书籍源码：[查看使用说明](https://github.com/steem-guides/editor/blob/master/doc/github.md)
+1. HackMD 用于在线协作编辑 MD：[查看使用说明](https://github.com/steem-guides/editor/blob/master/doc/hackmd.md)
 
 ### 当前项目
 
